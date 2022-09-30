@@ -15,7 +15,7 @@ $ cd PROG8560-Assignment1
 ```sh
 $ npm install mongoose
 ```
-### 3. install nodemon
+### 3. Install nodemon
 ```sh
 $ npm -g nodemon
 ```
