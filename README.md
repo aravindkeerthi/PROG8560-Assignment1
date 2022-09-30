@@ -19,7 +19,7 @@ $ npm install mongoose
 ```sh
 $ npm -g nodemon
 ```
-###4. Run the project
+### 4. Run the project
 ```sh
 $ npm run dev
 
