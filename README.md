@@ -23,5 +23,5 @@ $ npm -g nodemon
 ```sh
 $ npm run dev
 
-## Why to use MIT License?
-MIT license is the open source software license. Since we are using NodeJS, the MIT License tells about can's and can't. It allows us to use code in commerical applications and modify the code. Also sublicense of the code is possible. As part of can't we cannot delete the copyright notice and original license from our version of the code.
+## Why did I use MIT License?
+It allows use to keep our source code private as long as we give credit in the license file along with a copyright notice, it’s business friendly and open source friendly while still allowing for monetization. It helps for us and other users of our code can use it for commercial purposes.
